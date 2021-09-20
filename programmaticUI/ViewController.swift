@@ -1,9 +1,5 @@
-//
 //  ViewController.swift
-//  programmaticUI
-//
-//  Created by Alejandro Alcazar on 9/20/21.
-//
+//  iAmRich
 
 import UIKit
 
